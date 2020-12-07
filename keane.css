@@ -1,7 +1,17 @@
  p {
-        color: red;
-    }
+	color: red;
+}
 
-    a {
-        color: blue;
-    }
+a {
+	color: blue;
+}
+
+body {
+	font-size: 20px;
+	color: brown;
+}
+
+h1 {
+	color: yellow;
+	background-color: purple;
+}
